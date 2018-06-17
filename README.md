@@ -1,8 +1,8 @@
 mysql - nodejs 学习笔记
 
 ## 操作
-[Imgur](https://i.imgur.com/Z3Bo79I.png)
-[Imgur](https://i.imgur.com/EXUeDCu.png)
+![Imgur](https://i.imgur.com/Z3Bo79I.png)
+![Imgur](https://i.imgur.com/EXUeDCu.png)
 ```
 const mysql  = require('mysql');  
  
